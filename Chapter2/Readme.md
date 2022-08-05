@@ -4,7 +4,7 @@ The following video shows the functionallity that is gradually built from Exampl
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=nnXCHKm1Pf0">
-         <img src="https://www.youtube.com/watch?v=nnXCHKm1Pf0/0.jpg" style="width:45%;">
+         <img src="https://img.youtube.com/vi/nnXCHKm1Pf0/0.jpg" style="width:45%;">
       </a>
 </div>
 
