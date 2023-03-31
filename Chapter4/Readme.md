@@ -9,3 +9,5 @@ The following video shows the functionallity that is gradually built from Exampl
 </div>
 
 Video credits: María Eloísa Tourret & Camila Belen Silva Sabarots.
+
+**Note**: this video is valid for the Example 4.4 version published in the book and is also valid for the new version of Chapter 4 available in the Erratum of Chapter 4.
